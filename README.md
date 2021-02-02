@@ -5,7 +5,4 @@
 </p>
 
 Useless stats:
-<p align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Steviegt6">
-</p>
+![]("https://github-readme-stats.vercel.app/api?username=Steviegt6")
