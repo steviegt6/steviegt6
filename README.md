@@ -4,9 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=Steviegt6">
 </p>
 
-## Some Frameworks I'm familiar with
-
-I am quite familiar with XNA (XNA's not acronymed), [FNA](https://github.com/FNA-XNA/FNA) (FNA's not acronymed), and [MG](https://github.com/MonoGame/MonoGame) (MonoGame), all Frameworks built in C# that provide extremely powerful tools to the user.
 
 
 
