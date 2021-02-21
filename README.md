@@ -4,11 +4,20 @@
   <img src="https://komarev.com/ghpvc/?username=Steviegt6">
 </p>
 
+## Some Frameworks I'm familiar with
+
+I am quite familiar with XNA (XNA's not acronymed), [FNA](https://github.com/FNA-XNA/FNA) (FNA's not acronymed), and [MG](https://github.com/MonoGame/MonoGame) (MonoGame), all Frameworks built in C# that provide extremely powerful tools to the user.
+
 Useless stats:
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Steviegt6&show_icons=true" alt="Steviegt6" />
 </p>
 
-[My Discord Server!](https://discord.com/invite/qrZ4Bpz)
+## You can find me here
+  <a href="https://steamcommunity.com/id/Steviegt6/"/>
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/steam.svg" alt="steam" style="vertical-align:top; margin:4px">
+  </a>
 
+
+- [My Discord server.](https://discord.com/invite/qrZ4Bpz)
