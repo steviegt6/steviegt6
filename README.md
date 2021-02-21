@@ -15,9 +15,11 @@ Useless stats:
 </p>
 
 ## You can find me here
+
   <a href="https://steamcommunity.com/id/Steviegt6/"/>
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/steam.svg" alt="steam" style="vertical-align:top; margin:4px">
   </a>
 
 
-- [My Discord server.](https://discord.com/invite/qrZ4Bpz)
+
+[My Discord server.](https://discord.com/invite/qrZ4Bpz)
