@@ -1,7 +1,7 @@
+<h1 align="center">Hey there, I'm Stevie</h1>
+<h3 align="center">C# programmer, ironic anime pfp-user, and professional retard™®©.</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Steviegt6">
-  <br>
-  Hey there, I'm Stevie. C# programmer, ironic anime pfp-user, and professional retard™®©.
 </p>
 
 Useless stats:
