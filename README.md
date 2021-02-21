@@ -17,7 +17,7 @@ I am quite familiar with XNA (XNA's not acronymed), [FNA](https://github.com/FNA
   </a>
 
   <a href="https://discord.com/invite/qrZ4Bpz"/>
-    <img src="https://user-images.githubusercontent.com/45271396/88109097-33134080-cbaa-11ea-8e2f-c044c774f100.png" alt="discord" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/social/discord.svg" alt="discord" style="vertical-align:top; margin:4px">
   </a>
 
 
