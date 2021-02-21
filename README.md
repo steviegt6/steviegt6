@@ -6,4 +6,9 @@
 
 Useless stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Steviegt6)
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Steviegt6&show_icons=true" alt="Steviegt6" />
+</p>
+
+[My Discord Server!](https://discord.com/invite/qrZ4Bpz)
+
