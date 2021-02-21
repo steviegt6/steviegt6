@@ -8,11 +8,7 @@
 
 I am quite familiar with XNA (XNA's not acronymed), [FNA](https://github.com/FNA-XNA/FNA) (FNA's not acronymed), and [MG](https://github.com/MonoGame/MonoGame) (MonoGame), all Frameworks built in C# that provide extremely powerful tools to the user.
 
-Useless stats:
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Steviegt6&show_icons=true" alt="Steviegt6" />
-</p>
 
 ## You can find me here
 
@@ -23,3 +19,10 @@ Useless stats:
 
 
 [My Discord server.](https://discord.com/invite/qrZ4Bpz)
+
+
+## Some useless stats
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Steviegt6&show_icons=true" alt="Steviegt6" />
+</p>
