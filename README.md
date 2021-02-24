@@ -16,6 +16,10 @@
   <a href="https://discord.com/invite/qrZ4Bpz"/>
     <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/social/discord.svg" alt="discord" style="vertical-align:top; margin:4px">
   </a>
+  
+  <a href="https://www.youtube.com/channel/UCfbypg5MgXPFPnJkP-55gRA"/>
+    <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/streaming/youtube.svg" alt="youtube" style="vertical-align:top; margin:4px">
+  </a>
 
 
 
