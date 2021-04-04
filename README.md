@@ -1,5 +1,13 @@
+<p align="center">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/csharp_dotnet.svg" style="vertical-align:top; margin:6px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/java.svg" style="vertical-align:top; margin:6px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" style="vertical-align:top; margin:6px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" style="vertical-align:top; margin:6px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" style="vertical-align:top; margin:6px">
+</p>
+
 <h1 align="center">Hey there, I'm Stevie</h1>
-<h3 align="center">C# programmer, ironic anime pfp-user, and professional retard™®©.</h3>
+<h3 align="center">Programmer, ironic anime pfp-user, and professional retard™®©.</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Steviegt6">
 </p>
