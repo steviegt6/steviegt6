@@ -28,7 +28,14 @@
   <a href="https://www.youtube.com/channel/UCfbypg5MgXPFPnJkP-55gRA"/>
     <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/streaming/youtube.svg" alt="youtube" style="vertical-align:top; margin:4px">
   </a>
+  
+  <a href="https://www.reddit.com/u/Steviegt6"/>
+    <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/social/reddit.svg" alt="reddit" style="vertical-align:top; margin:4px">
+  </a>
 
+  <a href="https://www.twitter.com/TheTomatophile"/>
+    <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:4px">
+  </a>
 
 
 
