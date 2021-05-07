@@ -9,6 +9,10 @@
 <h1 align="center">Hey there, I'm Stevie</h1>
 <h3 align="center">Programmer, ironic anime pfp-user, and professional retard™®©.</h3>
 <p align="center">
+  Game modder, C#-centered programmer, whatever. I like to program and I like to mod stuff. I like to mess with stuff I shouldn't mess with.
+  If you don't have an idea of what I like to make, I've: made a hacked client for Terraria, created rought-draft <code>.tmod</code> malware, created software capable of bypassing all unpacking and decompilation restrictions set by <code>tModLoader</code>, created a program that allows anyone to convert a Linux installation of Stardew Valley into a Windows 64bit version, and I've contributed to numerous large and popular Terraria mods.
+</p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Steviegt6">
 </p>
 
