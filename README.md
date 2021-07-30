@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">Hey there, I'm Stevie</h1>
-<h3 align="center">Programmer, ironic anime pfp-user, and professional retard™®©.</h3>
+<h3 align="center">Programmer, ironic anime pfp-user (sometimes), and professional retard™®©.</h3>
 <p align="center">
   Unprofessional game modder and software programmer. My main language is C# but I'm mildly competent with Java.
 </p>
