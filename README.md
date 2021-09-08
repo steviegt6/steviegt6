@@ -47,4 +47,5 @@
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Steviegt6&show_icons=true&theme=tokyonight" alt="Steviegt6" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steviegt6&theme=tokyonight" alt="Steviegt6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Steviegt6&hide_border=true&theme=tokyonight" alt="Steviegt6" />
 </p>
