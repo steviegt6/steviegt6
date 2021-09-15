@@ -7,19 +7,8 @@
 </p>
 
 <h1 align="center">Hey there, I'm Stevie</h1>
-<h3 align="center">Unprofessional programmer, game modder, ironic anime pfp-user (sometimes), and professional retard™®©.</h3>
+
 <p align="center">
-  Unprofessional game modder and software programmer. My main language is C# but I'm mildly competent with Java.
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Steviegt6">
-</p>
-
-
-
-
-## You can find me here
-
   <a href="https://steamcommunity.com/id/Steviegt6/"/>
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/steam.svg" alt="steam" style="vertical-align:top; margin:4px">
   </a>
@@ -39,8 +28,15 @@
   <a href="https://www.twitter.com/TheTomatophile"/>
     <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:4px">
   </a>
+</p>
 
-
+<h3 align="center">Backend Software Develper & Game Modder™®©</h3>
+<p align="center">
+  Heya, I'm Stevie (or Tomat, depending on where you've met me). I'm an unprofessional game modder and software developer. My main language is C# but I'm more or less competent with Java.
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Steviegt6">
+</p>
 
 ## Some useless stats
 
