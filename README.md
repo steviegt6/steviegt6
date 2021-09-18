@@ -30,7 +30,7 @@
   </a>
 </p>
 
-<h3 align="center">Backend Software Develper & Game Modder™®©</h3>
+<h3 align="center">Backend Software Developer & Game Modder™®©</h3>
 <p align="center">
   Heya, I'm Stevie (or Tomat, depending on where you've met me). I'm an unprofessional game modder and software developer. My main language is C# but I'm more or less competent with Java.
 </p>
