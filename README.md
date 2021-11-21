@@ -32,7 +32,7 @@
 
 <h3 align="center">Backend Software Developer & Game Modder™®©</h3>
 <p align="center">
-  Heya, I'm Stevie (or Tomat, depending on where you've met me). I'm an unprofessional game modder and software developer. My main language is C# but I'm more or less competent with Java.
+  Heya, I'm Stevie (or Tomat, depending on where you've met me). I'm an unprofessional game modder and software developer. I am proficient in C#, and can program in Java and JavaScript as well, though I prefer not to use those two when possible.
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Steviegt6">
