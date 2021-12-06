@@ -32,14 +32,14 @@
 
 <h3 align="center">Backend Software Developer & Game Modder™®©</h3>
 <p align="center">
-  Heya, I'm Stevie (or Tomat, depending on where you've met me). I'm an unprofessional game modder and software developer. I am proficient in C#, and can program in Java and JavaScript as well, though I prefer not to use those two when possible.
+  Heya, I'm Stevie, though I often go by Tomat. I'm an unprofessional game modder and software developer. I am a C# and Java developer, though hold general knowledge of languages such as JavaScript. I enjoy reverse-engineering and modding programs.
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Steviegt6">
 </p>
 
-## Some useless stats
-
+### Funky Statistics
+---
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Steviegt6&show_icons=true&theme=tokyonight" alt="Steviegt6" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steviegt6&theme=tokyonight" alt="Steviegt6" />
