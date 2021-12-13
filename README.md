@@ -45,5 +45,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steviegt6&theme=tokyonight" alt="Steviegt6" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Steviegt6&hide_border=true&theme=tokyonight" alt="Steviegt6" />
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Steviegt6&column=8&theme=discord&no-frame=true" alt="Steviegt6" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Tomat&range=last_7_days&custom_title=Wakatime+stats+for+the+last+week&layout=compact&theme=gruvbox&hide_border=true&text_color=ffffdf&langs_count=6" alt="Steviegt6" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Tomat&range=last_7_days&custom_title=Wakatime+stats+for+the+last+week&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Steviegt6" />
 </p>
