@@ -2,6 +2,10 @@
 
 # Hey there, I'm [Tomat](https://tomat.dev/).
 
+`Tomat#0001` // `@tomat:matrix.org`
+
+---
+
 I'm a programmer and game modder who enjoys reverse-engineering and other nerd stuff like that. I'm known in the Terrria modding community and somewhat exist in the Minecraft modding community. I develop and maintain my own projects as well as several mods for Terraria.
 
 I know **C#**; **Java**; **HTML, CSS and JavaScript**; and **TypeScript** - among other things.
