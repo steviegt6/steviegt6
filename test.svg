@@ -1,5 +1,0 @@
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-	<script xhtml="http://www.w3.org/1999/xhtml" type="text/javascript">
-		<![CDATA[alert('test');]]>
-	</script>
-</svg>
