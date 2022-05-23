@@ -12,7 +12,7 @@ I know **C#**; **Java**; **HTML, CSS and JavaScript**; and **TypeScript** - amon
 
 I prefer to archive what I make and am a fan of open-source software, so anything I release will probably stay out there.
 
-## Accomplishments
+## Projects
 I actively work on and have worked on several projects in the past, including, but not limited to:
 * [**Terraclient**](https://github.com/Steviegt6/Terraclient), a utility client for Terraria (no longer maintained, not fun to work on). This made use of tModLoader's patching system.
 * [**TML.Patcher**](https://github.com/Steviegt6/TML.Patcher), a program for unpacking and manipulating `.tmod` files, designed to heavily aid in reverse-engineering mods.
