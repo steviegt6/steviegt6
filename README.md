@@ -12,7 +12,16 @@ I know **C#**; **Java**; **HTML, CSS and JavaScript**; and **TypeScript** - amon
 
 I prefer to archive what I make and am a fan of open-source software, so anything I release will probably stay out there.
 
-### Funky Statistics
+## Accomplishments
+I actively work on and have worked on several projects in the past, including, but not limited to:
+* [**Terraclient**](https://github.com/Steviegt6/Terraclient), a utility client for Terraria (no longer maintained, not fun to work on). This made use of tModLoader's patching system.
+* [**TML.Patcher**](https://github.com/Steviegt6/TML.Patcher), a program for unpacking and manipulating `.tmod` files, designed to heavily aid in reverse-engineering mods.
+* [**CataclysmMod**](https://github.com/Steviegt6/CataclysmMod), an experimental Terraria mod which makes heavy use of interesting assembly loading manipulation and knowledge of how the CLR understands type loading to achieve add-on functionality.
+* [**Terraprisma**](https://github.com/rejuvena/terraprisma), a tModLoader bootstrapper which enabled the use of assembly transformation before tML loaded, akin to Minecraft's coremodding.
+* [**Tea Framework**](https://github.com/rejuvena/tea-framework), a progressive modding library and framework for tModLoader mods.
+* [**Rejuvena**](https://github.com/rejuvena/rejuvena), an advanced content mod for Terraria.
+
+## Funky Statistics
 ---
 <div align="center">
   <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=Steviegt6&show_icons=true&theme=tokyonight" alt="Steviegt6" />
