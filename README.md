@@ -14,7 +14,7 @@ I prefer to archive what I make and am a fan of open-source software, so anythin
 
 ## Projects
 I actively work on and have worked on several projects in the past, including, but not limited to:
-* [**Felt**](https://github.com/feltpowered/felt), and other projects under the [_FeltPowered_](https://github.com/feltpowered) organization, which works in unison to create a "universal" mod loader and runtime patcher for C# applications.
+* [**Felt**](https://github.com/feltpowered/felt), and other projects under the [_FeltPowered_](https://github.com/feltpowered) organization, which work in unison to create a "universal" mod loader and runtime patcher for C# applications.
 * [**Terraclient**](https://github.com/Steviegt6/Terraclient), a utility client for Terraria (no longer maintained, not fun to work on). This made use of tModLoader's patching system.
 * [**TML.Patcher**](https://github.com/Steviegt6/TML.Patcher), a program for unpacking and manipulating `.tmod` files, designed to heavily aid in reverse-engineering mods.
 * [**CataclysmMod**](https://github.com/Steviegt6/CataclysmMod), an experimental Terraria mod which makes heavy use of interesting assembly loading manipulation and knowledge of how the CLR understands type loading to achieve add-on functionality.
