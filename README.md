@@ -1,4 +1,4 @@
-> `Tomat#0001` // `@tomat:matrix.org` <img align="right" src="https://komarev.com/ghpvc/?username=Steviegt6" />
+> [tomat.dev](https://tomat.dev) - `Tomat#0001` // `@tomat:matrix.org` <img align="right" src="https://komarev.com/ghpvc/?username=Steviegt6" />
 
 # Hey there, I'm [Tomat](https://tomat.dev/).
 
@@ -6,7 +6,7 @@ I'm a programmer and game modder who enjoys reverse-engineering and other nerd s
 
 I know **C#**; **Java**; **HTML, CSS and JavaScript**; and **TypeScript** - among other things.
 
-I prefer to archive what I make and am a fan of open-source software, so anything I release will probably stay out there.
+Quite a large fan of archival, practically everything I make program probably be kept here if possible. Advocate for free software, willing to settle for open-source.
 
 ## Projects
 I actively work on and have worked on several projects in the past, including, but not limited to:
