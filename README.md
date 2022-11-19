@@ -1,8 +1,12 @@
 <img align="right" src="/github-metrics.svg" alt="Metrics" width="400">
 
-> [tomat.dev](https://tomat.dev) - `Tomat#0001` // `@tomat:matrix.org` <img align="right" src="https://komarev.com/ghpvc/?username=Steviegt6" />
+<img align="right" src="https://komarev.com/ghpvc/?username=Steviegt6" />
 
 # Hey there, I'm [Tomat](https://tomat.dev/).
+
+> [tomat.dev](https://tomat.dev) - `Tomat#0001` // `@tomat:matrix.org`
+
+---
 
 I'm a programmer and game modder who enjoys reverse-engineering and other nerd stuff like that. I'm known in the Terraria modding community and somewhat exist in the Minecraft modding community. I develop and maintain my own projects as well as several mods for Terraria.
 
