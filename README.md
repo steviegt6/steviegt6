@@ -1,3 +1,5 @@
+<img align="right" src="/github-metrics.svg" alt="Metrics" width="400">
+
 > [tomat.dev](https://tomat.dev) - `Tomat#0001` // `@tomat:matrix.org` <img align="right" src="https://komarev.com/ghpvc/?username=Steviegt6" />
 
 # Hey there, I'm [Tomat](https://tomat.dev/).
