@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="439.05284334966865" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="439.05284334966865" y="0" width="5.962160042617627" height="8" fill="#df7900"/>
-                    <rect mask="url(#languages-bar)" x="445.0150033922863" y="0" width="4.750066379535691" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="449.765069771822" y="0" width="3.640670739513069" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="453.40574051133507" y="0" width="2.92222724199037" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="456.3279677533254" y="0" width="1.6473183429411802" height="8" fill="#aace60"/>
-                    <rect mask="url(#languages-bar)" x="457.9752860962666" y="0" width="1.1172652203336804" height="8" fill="#6a40fd"/>
-                    <rect mask="url(#languages-bar)" x="459.0925513166003" y="0" width="0.9074486833997003" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="439.0530071298402" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="439.0530071298402" y="0" width="5.962113426095375" height="8" fill="#df7900"/>
+                    <rect mask="url(#languages-bar)" x="445.01512055593554" y="0" width="4.750029240047067" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="449.7651497959826" y="0" width="3.6406422740899123" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="453.4057920700725" y="0" width="2.9222043938832614" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="456.32799646395574" y="0" width="1.6473054630030974" height="8" fill="#aace60"/>
+                    <rect mask="url(#languages-bar)" x="457.9753019269589" y="0" width="1.1172564847380855" height="8" fill="#6a40fd"/>
+                    <rect mask="url(#languages-bar)" x="459.0925584116969" y="0" width="0.9074415883030509" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -572,7 +572,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="11.986666666666668 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="12.09 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -591,10 +591,10 @@
                                     <span class="prefix">Master</span>
                                     stargazer
                                     <div class="value-wrapper">
-                                        <div class="value">1116</div>
+                                        <div class="value">1117</div>
                                     </div>
                                 </div>
-                                <div class="text">Starred 1116 repositories</div>
+                                <div class="text">Starred 1117 repositories</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -1223,7 +1223,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Jan 2023, 10:01:31 (timezone America/Los_Angeles) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 14 Jan 2023, 11:01:57 (timezone America/Los_Angeles) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
