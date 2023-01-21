@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4960 Commits
+                            4961 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -127,7 +127,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 1156 repositories
+                            Starred 1161 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="438.7989588727533" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="438.7989588727533" y="0" width="6.031574412973254" height="8" fill="#df7900"/>
-                    <rect mask="url(#languages-bar)" x="444.8305332857266" y="0" width="4.805368965264025" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="449.63590225099057" y="0" width="3.697406023306283" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="453.3333082742968" y="0" width="2.956809006455672" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="456.2901172807525" y="0" width="1.6616583072470341" height="8" fill="#aace60"/>
-                    <rect mask="url(#languages-bar)" x="457.9517755879995" y="0" width="1.130272966055926" height="8" fill="#6a40fd"/>
-                    <rect mask="url(#languages-bar)" x="459.08204855405546" y="0" width="0.9179514459444877" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="438.7949185176876" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="438.7949185176876" y="0" width="6.031518875689629" height="8" fill="#df7900"/>
+                    <rect mask="url(#languages-bar)" x="444.82643739337726" y="0" width="4.805324718584654" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="449.63176211196196" y="0" width="3.70087363109288" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="453.3326357430548" y="0" width="2.95751569740378" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="456.2901514404586" y="0" width="1.6616430070977897" height="8" fill="#aace60"/>
+                    <rect mask="url(#languages-bar)" x="457.95179444755644" y="0" width="1.130262558774843" height="8" fill="#6a40fd"/>
+                    <rect mask="url(#languages-bar)" x="459.0820570063313" y="0" width="0.9179429936687935" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -300,7 +300,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>594 kB</div>
+                                <div>595 kB</div>
                                 <div>0.8%</div>
                             </small>
                         </div>
@@ -352,7 +352,7 @@
                         </svg>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="2.434684684684685 329"/>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="2.4339015760694758 329"/>
                             <text x="15" y="15" dominant-baseline="central">23</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -572,7 +572,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="16.12 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="16.636666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -591,10 +591,10 @@
                                     <span class="prefix">Master</span>
                                     stargazer
                                     <div class="value-wrapper">
-                                        <div class="value">1156</div>
+                                        <div class="value">1161</div>
                                     </div>
                                 </div>
-                                <div class="text">Starred 1156 repositories</div>
+                                <div class="text">Starred 1161 repositories</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -1223,7 +1223,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jan 2023, 19:02:00 (timezone America/Los_Angeles) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 20 Jan 2023, 20:01:58 (timezone America/Los_Angeles) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
