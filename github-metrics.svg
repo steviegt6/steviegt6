@@ -127,7 +127,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 1362 repositories
+                            Starred 1365 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="453.17221181729553" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="453.17221181729553" y="0" width="1.8150930943645263" height="8" fill="#df7900"/>
-                    <rect mask="url(#languages-bar)" x="454.9873049116601" y="0" width="1.4460494643591604" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="456.4333543760192" y="0" width="1.148211021838169" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="457.58156539785745" y="0" width="0.9242580451307488" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="458.5058234429882" y="0" width="0.5356719667768206" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="459.041495409765" y="0" width="0.48245009925537924" height="8" fill="#814CCC"/>
-                    <rect mask="url(#languages-bar)" x="459.52394550902034" y="0" width="0.4760544909796358" height="8" fill="#aace60"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="453.17231399692196" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="453.17231399692196" y="0" width="1.8150659310241721" height="8" fill="#df7900"/>
+                    <rect mask="url(#languages-bar)" x="454.98737992794617" y="0" width="1.446027823852736" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="456.43340775179894" y="0" width="1.1481938385615198" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="457.58160159036044" y="0" width="0.9242442133686574" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="458.5058458037291" y="0" width="0.5356639503064824" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="459.04150975403553" y="0" width="0.48244287926413426" height="8" fill="#814CCC"/>
+                    <rect mask="url(#languages-bar)" x="459.5239526332997" y="0" width="0.4760473667003325" height="8" fill="#aace60"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -519,7 +519,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 25.6k out of 108m users</span>
+                                    <span class="gh">ranked 25.7k out of 108m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">268</div>
                                     </div>
@@ -572,7 +572,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="37.406666666666666 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="37.71666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -591,10 +591,10 @@
                                     <span class="prefix">Master</span>
                                     stargazer
                                     <div class="value-wrapper">
-                                        <div class="value">1362</div>
+                                        <div class="value">1365</div>
                                     </div>
                                 </div>
-                                <div class="text">Starred 1362 repositories</div>
+                                <div class="text">Starred 1365 repositories</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -1223,7 +1223,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Feb 2023, 18:27:50 (timezone America/Los_Angeles) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 19 Feb 2023, 19:07:04 (timezone America/Los_Angeles) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
