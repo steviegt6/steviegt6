@@ -519,7 +519,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 24.9k out of 112m users</span>
+                                    <span class="gh">ranked 24.9k out of 113m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">276</div>
                                     </div>
@@ -815,7 +815,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="78.66834170854271 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="79.44723618090453 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g fill="none" fill-rule="evenodd">
@@ -835,10 +835,10 @@
                                     <span class="prefix"></span>
                                     Chatter
                                     <div class="value-wrapper">
-                                        <div class="value">102</div>
+                                        <div class="value">103</div>
                                     </div>
                                 </div>
-                                <div class="text">Participated in discussions 102 times</div>
+                                <div class="text">Participated in discussions 103 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -888,7 +888,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 111k out of 112m users</span>
+                                    <span class="gh">ranked 111k out of 113m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">81</div>
                                     </div>
@@ -978,7 +978,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="16.35678391959799 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="15.577889447236181 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1006,10 +1006,10 @@
                                     <span class="prefix"></span>
                                     Reviewer
                                     <div class="value-wrapper">
-                                        <div class="value">22</div>
+                                        <div class="value">21</div>
                                     </div>
                                 </div>
-                                <div class="text">Reviewed 22 pull requests</div>
+                                <div class="text">Reviewed 21 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1184,7 +1184,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Apr 2023, 23:02:06 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 10 Apr 2023, 00:01:49 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
