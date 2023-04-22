@@ -127,7 +127,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 1536 repositories
+                            Starred 1537 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -185,7 +185,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    552 Stargazers
+                                    553 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="453.4859200911297" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="453.4859200911297" y="0" width="1.9809796464179377" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="455.46689973754764" y="0" width="1.3554934203369546" height="8" fill="#df7900"/>
-                    <rect mask="url(#languages-bar)" x="456.82239315788456" y="0" width="1.0798953180453064" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="457.9022884759299" y="0" width="0.7097828754343567" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="458.61207135136425" y="0" width="0.6086389170232092" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.22071026838745" y="0" width="0.4000344823520732" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="459.62074475073956" y="0" width="0.3792552492604891" height="8" fill="#aace60"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="453.4859240103129" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="453.4859240103129" y="0" width="1.9809784545654778" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="455.46690246487833" y="0" width="1.3554926048070375" height="8" fill="#df7900"/>
+                    <rect mask="url(#languages-bar)" x="456.82239506968534" y="0" width="1.0798946683284387" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="457.9022897380138" y="0" width="0.7097824483949031" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="458.61207218640874" y="0" width="0.6086385508368167" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.22071073724555" y="0" width="0.4000342416721235" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="459.6207449789177" y="0" width="0.37925502108232356" height="8" fill="#aace60"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -572,7 +572,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="55.38666666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="55.489999999999995 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -591,10 +591,10 @@
                                     <span class="prefix">Master</span>
                                     stargazer
                                     <div class="value-wrapper">
-                                        <div class="value">1536</div>
+                                        <div class="value">1537</div>
                                     </div>
                                 </div>
-                                <div class="text">Starred 1536 repositories</div>
+                                <div class="text">Starred 1537 repositories</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -1184,7 +1184,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Apr 2023, 15:01:58 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 22 Apr 2023, 16:02:01 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
