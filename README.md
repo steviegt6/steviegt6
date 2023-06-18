@@ -2,7 +2,7 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=Steviegt6" />
 
-# Hey there, I'm [Tomat](https://tomat.dev/).
+# Hey there, I'm [tomat](https://tomat.dev/).
 
 > [tomat.dev](https://tomat.dev) - `Tomat#0001` // `@tomat:matrix.org`
 
