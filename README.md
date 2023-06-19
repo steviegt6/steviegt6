@@ -4,7 +4,7 @@
 
 # Hey there, I'm [tomat](https://tomat.dev/).
 
-> [tomat.dev](https://tomat.dev) - `Tomat#0001` // `@tomat:matrix.org`
+> [tomat.dev](https://tomat.dev) - `tomat` // `@tomat:matrix.org`
 
 ---
 
