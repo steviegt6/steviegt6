@@ -33,11 +33,11 @@ jobs:
           config_octicon: yes
           config_timezone: America/Los_Angeles
           config_twemoji: yes
-          plugin_achievements: yes
+          plugin_achievements: no
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
-          plugin_languages: yes
+          plugin_languages: no
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
@@ -48,7 +48,7 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_notable: yes
+          plugin_notable: no
           plugin_notable_filter: stars:>100
           plugin_notable_from: all
           plugin_notable_indepth: yes
