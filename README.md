@@ -8,7 +8,7 @@
 
 ---
 
-I'm a programmer and game modder who enjoys reverse-engineering and other nerdy stuff like that. I'm known in the Terraria modding community and somewhat exist in the Minecraft modding community. I develop and maintain my own projects as well as several mods for Terraria.
+I'm a programmer and game modder who enjoys reverse-engineering and other nerdy things like that. I'm known in the Terraria modding community and somewhat exist in the Minecraft modding community. I develop and maintain my own projects as well as several mods for Terraria.
 
 I'm versed in many languages and technologies, take a look at my profile if you want to know which.
 
