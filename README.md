@@ -8,11 +8,11 @@
 
 ---
 
-I'm a programmer and game modder who enjoys reverse-engineering and other nerd stuff like that. I'm known in the Terraria modding community and somewhat exist in the Minecraft modding community. I develop and maintain my own projects as well as several mods for Terraria.
+I'm a programmer and game modder who enjoys reverse-engineering and other nerdy stuff like that. I'm known in the Terraria modding community and somewhat exist in the Minecraft modding community. I develop and maintain my own projects as well as several mods for Terraria.
 
-I know **C#**; **Java**; **HTML, CSS and JavaScript**; and **TypeScript** - among other things.
+I'm versed in many languages and technologies, take a look at my profile if you want to know which.
 
-Quite a large fan of archival, practically everything I make program probably be kept here if possible. Advocate for free software, willing to settle for open-source.
+Quite a large fan of archival, practically everything I make or program will be kept here if possible. I like open-source software, free software, and money.
 
 <!-- ## Projects
 I actively work on and have worked on several projects in the past, including, but not limited to:
