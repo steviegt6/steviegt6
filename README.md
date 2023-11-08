@@ -8,11 +8,20 @@
 
 ---
 
-I'm a programmer and game modder who enjoys reverse-engineering and other nerdy things like that. I'm known in the Terraria modding community and somewhat exist in the Minecraft modding community. I develop and maintain my own projects as well as several mods for Terraria.
+I am a hobbyist software developer who develops mods for video games and general programs. I enjoy programming, problem solving, reverse engineering, and other things of that nature. I have a presence in the Terraria modding community and have some footing in the Minecraft, Stardew Valley, and HoloCure modding scenes as well. Most of what I develop is my own, but I am always glad to contribute where possible.
 
-I'm versed in many languages and technologies, take a look at my profile if you want to know which.
+I am versed in a multitude of different languages and technologies. You can take a look at my projects to see what I use more often, but not everything is represented there.
 
-Quite a large fan of archival, practically everything I make or program will be kept here if possible. I like open-source software, free software, and money.
+A large fan of archival, practically everything I develop should wind up here eventually. I like open-source software, I prefer free software, and I like earning money and getting paid for my work.
+
+## Like what I do?
+
+That's awesome, consider donating:
+
+- [Patreon](https://github.com/tomatophile),
+- [Ko-Fi](https://ko-fi.com/tomatophile);
+
+or consider contacting me through a service (preferably Discord, `@tomat`) for commissions.
 
 <!-- ## Projects
 I actively work on and have worked on several projects in the past, including, but not limited to:
