@@ -18,7 +18,7 @@ A large fan of archival, practically everything I develop should wind up here ev
 
 That's awesome, consider donating:
 
-- [Patreon](https://github.com/tomatophile),
+- [Patreon](https://patreon.com/tomatophile),
 - [Ko-Fi](https://ko-fi.com/tomatophile);
 
 or consider contacting me through a service (preferably Discord, `@tomat`) for commissions.
