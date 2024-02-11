@@ -8,7 +8,7 @@
 
 ---
 
-I program and develop mods for games in my free time. I like programming and reverse engineering, problem solving is fun. I have a presence mainly in the Terraria modding community, but I have dabbled in Minecrat, Stardew Valley, and HoloCure.
+I program and develop mods for games in my free time. I like programming and reverse engineering; problem solving is fun. I have a presence mainly in the Terraria modding community, but I have dabbled in Minecraft, Stardew Valley, and HoloCure.
 
 ## Like what I do?
 
