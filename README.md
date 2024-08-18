@@ -16,7 +16,7 @@ I exist namely in the Terraria modding community but have dabbled elsewhere.
 
 That's awesome, consider donating:
 
-- [Patreon](https://patreon.com/tomatophile),
-- [Ko-Fi](https://ko-fi.com/tomatophile);
+- [Patreon](https://patreon.com/steviegt6),
+- [Ko-Fi](https://ko-fi.com/steviegt6);
 
 or consider contacting me through a service (preferably Discord, `@tomat`) for commissions.
