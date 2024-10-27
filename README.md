@@ -8,7 +8,7 @@
 
 ---
 
-I'm a programmer who especially enjoys developing mods for software -- especially video games -- in my free time. I've a fascination for reverse engineering and doing things with software that I probably shouldn't.
+I'm a programmer who writes software; sometimes useful, sometimes video game modifications. I've a fascination for reverse engineering and doing things with software that I probably shouldn't.
 
 ## Like what I do?
 
