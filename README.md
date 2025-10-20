@@ -16,5 +16,3 @@ That's awesome, consider donating:
 
 - [Patreon](https://patreon.com/steviegt6),
 - [Ko-Fi](https://ko-fi.com/steviegt6).
-
-You are in no way obligated to do so, of course, but every bit helps me escape from working at Walmart.
