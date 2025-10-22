@@ -2,17 +2,17 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=Steviegt6" />
 
-# Hey there, I'm [tomat](https://tomat.dev/).
+# hey there, i'm [tomat](https://tomat.dev/) !
 
 > [tomat.dev](https://tomat.dev) - `@tomat`
 
 ---
 
-I'm a programmer who writes software; sometimes useful, sometimes video game modifications. I've a fascination for reverse engineering and doing things with software that I probably shouldn't.
+Prolific Terraria modder, though my interests lie in general software development and reverse engineering.
 
-## Like what I do?
+## know me? like what i do?
 
-That's awesome, consider donating:
+That's awesome! Consider donating:
 
 - [Patreon](https://patreon.com/steviegt6),
 - [Ko-Fi](https://ko-fi.com/steviegt6).
