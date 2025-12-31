@@ -8,7 +8,9 @@
 
 ---
 
-Prolific Terraria modder, though my interests lie in general software development and reverse engineering.
+Prolific Terraria mod.
+
+I like to program.
 
 ## know me? like what i do?
 
