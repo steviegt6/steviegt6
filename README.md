@@ -4,7 +4,7 @@
 
 # hey there, i'm [tomat](https://tomat.dev/) !
 
-> [tomat.dev](https://tomat.dev) - `@tomat`
+> [tomat.dev](https://tomat.dev) - `@tomat` on Discord
 
 ---
 
