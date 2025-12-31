@@ -8,7 +8,7 @@
 
 ---
 
-Prolific Terraria mod.
+Prolific Terraria modder.
 
 I like to program.
 
