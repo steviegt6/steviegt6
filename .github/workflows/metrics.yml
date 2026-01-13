@@ -55,10 +55,5 @@ jobs:
           plugin_notable_repositories: yes
           plugin_notable_self: yes
           plugin_notable_types: commit, pull_request
-          plugin_code: yes
-          plugin_code_languages: C#, HLSL
-          plugin_code_load: 400
-          plugin_code_days: 60
-          plugin_code_lines: 64
           repositories_affiliations: ""
           repositories_forks: yes
