@@ -8,8 +8,6 @@
 
 ---
 
-Prolific Terraria modder.
-
 I like to program.
 
 ## know me? like what i do?
